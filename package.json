@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-iguana/webpack-day-austin-will/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-austin-will#readme"
+  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-austin-will#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
